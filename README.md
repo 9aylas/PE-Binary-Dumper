@@ -5,5 +5,6 @@ AutoIt PE ( EXE ) Binary Dumper - Very Useful
 - You can read more about it ...
 - Ps : These result of strings you get , works only as AutoIt scripts/programs .
 
-> EOF
+![alt text](screenshot_pebd.bmp "nag !")
 
+> EOF
