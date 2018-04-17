@@ -4,8 +4,8 @@
 	  Automated by : 9aylas
 
 	  Greetz to  :
-	      Ghosty - AX302 - Redwan Red - Zahir - Sudo_Bellal - Erreur404
-		  TheHappyBit - DebAAkrem - Hacker-Fire - Indouskha - TheBen  And all DzCyberSec ^_^ ...
+	      Ghosty - AX302 - Redwan Red - EliteTrojan - Erreur404 - Sudo_Root
+		  TheHappyBit - DebAAkrem - Hacker-Fire - Indoushka - And all ^_^ ...
 
 
 #ce
